@@ -1,5 +1,5 @@
-# Airbnb JavaScript Style Guide() {
-
+# JWPlayer JavaScript Style Guide() {
+(forked from AirBnB)
 *A mostly reasonable approach to JavaScript*
 
 [![Downloads](https://img.shields.io/npm/dm/eslint-config-airbnb.svg)](https://www.npmjs.com/package/eslint-config-airbnb)

@@ -1,7 +1,7 @@
 {
-  "name": "eslint-config-airbnb-base",
+  "name": "eslint-config-jwplayer-base",
   "version": "7.1.0",
-  "description": "Airbnb's base JS ESLint config, following our styleguide",
+  "description": "JWPlayer's base JS ESLint config (forked from Airbnb)",
   "main": "index.js",
   "scripts": {
     "lint": "eslint .",
@@ -13,37 +13,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/airbnb/javascript"
+    "url": "https://github.com/jwplayer/javascript"
   },
   "keywords": [
     "eslint",
     "eslintconfig",
     "config",
-    "airbnb",
+    "jwplayer",
     "javascript",
     "styleguide"
   ],
-  "author": "Jake Teton-Landis (https://twitter.com/@jitl)",
-  "contributors": [
-    {
-      "name": "Jake Teton-Landis",
-      "url": "https://twitter.com/jitl"
-    },
-    {
-      "name": "Jordan Harband",
-      "email": "ljharb@gmail.com",
-      "url": "http://ljharb.codes"
-    },
-    {
-      "name": "Harrison Shoff",
-      "url": "https://twitter.com/hshoff"
-    }
-  ],
+  "author": "JWPlayer",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/airbnb/javascript/issues"
+    "url": "https://github.com/jwplayer/javascript/issues"
   },
-  "homepage": "https://github.com/airbnb/javascript",
+  "homepage": "https://github.com/jwplayer/javascript",
   "devDependencies": {
     "babel-preset-airbnb": "^2.0.0",
     "babel-tape-runner": "^2.0.1",
