@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-jwplayer-base",
-  "version": "7.1.0",
+  "version": "7.1.1",
   "description": "JWPlayer's base JS ESLint config (forked from Airbnb)",
   "main": "index.js",
   "scripts": {
@@ -32,9 +32,9 @@
   "devDependencies": {
     "babel-preset-airbnb": "^2.0.0",
     "babel-tape-runner": "^2.0.1",
-    "eslint": "^3.5.0",
+    "eslint": "^4.4.0",
     "eslint-find-rules": "^1.13.2",
-    "eslint-plugin-import": "^1.15.0",
+    "eslint-plugin-import": "^2.8.0",
     "in-publish": "^2.0.0",
     "safe-publish-latest": "^1.1.0",
     "tape": "^4.6.0"
